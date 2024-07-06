@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Sdt320
+# 👋 Hi, I’m Dharshini
 
 ## 👀 I’m interested in ...
 - Software development
