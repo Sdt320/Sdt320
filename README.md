@@ -1,30 +1,41 @@
-# 👋 Hi, I’m Dharshini
+# Hi, I'm Dharshini! ✨  
 
-## 👀 I’m interested in ...
-- Software development
-- Machine learning
-- Data science
-- Open-source contributions
-- Web development
+**🎓 Computer Science Engineer | 💻 Aspiring Software Engineer |Trainee at Brototype**  
 
-## 🌱 I’m currently learning ...
-- Advanced Python programming
-- Deep learning with TensorFlow and PyTorch
-- Full-stack web development with React and Node.js
+---
 
-## 💞️ I’m looking to collaborate on ...
-- Open-source projects
-- Machine learning research
-- Web development projects
-- Data analysis and visualization
+## 🔄 About Me  
+- 🌟 Passionate about building innovative solutions in AI and NLP.  
+- 🚀 Currently working on **SAGA (Smart AI Guided Assistant)**, a personal innovation integrating NLP and emotional intelligence.  
+- 🔧 Skilled in Python, Django, and Machine Learning.  
+- ✨ Sharing tutorials and insights on [Dt333](https://www.youtube.com/@Dha-333).
 
-## 📫 How to reach me ...
+---
 
-## 😄 Pronouns:
+## 📊 Skills  
+- **Programming Languages**: Python, JavaScript
+- **Frameworks**: Django, Bootstrap  
+- **Technologies**: Natural Language Processing (NLP), AI, Machine Learning  
+- **Tools**: Git, GitHub, Postman  
 
-- She/Her
+---
 
+## 🖌️ Projects  
+### 1. [SAGA (Smart AI Guided Assistant)](https://github.com/Sdt320/SAGA)  
+- Developed a personal AI assistant integrating advanced NLP and Emotional Intelligence.  
+- Features emotion detection, speech analysis, and personalized support.
+- 
+### 2. [Responsive Public Website](https://github.com/Sdt320/Responsive-Website)  
+- Created a responsive website using HTML, CSS, Bootstrap, and JavaScript.  
+- Achieved 90+ performance scores using Lighthouse.  
 
-## ⚡ Fun fact:
-- I love solving puzzles in my free time.
+---
 
+## 🔗 Connect with Me  
+- [Dharshiit](mailto:queen.tsyd@gmail.)  
+- [Dt333](https://www.youtube.com/@Dha-333) 
+- [LinkedIn](https://www.linkedin.com/in/dharshini-t/) 
+
+---
+
+🌱 *"Keep learning, keep growing, and keep inspiring!"*
