@@ -32,7 +32,7 @@
 ---
 
 ## 🔗 Connect with Me  
-- [Dharshiit](mailto:queen.tsyd@gmail.)  
+- [Dharshinit](mailto:dharshinit0303@gmail.com)  
 - [Dt333](https://www.youtube.com/@Dha-333) 
 - [LinkedIn](https://www.linkedin.com/in/dharshini-t/) 
 
